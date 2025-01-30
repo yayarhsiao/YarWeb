@@ -4,9 +4,9 @@ theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
-googleAnalytics = ""
+#googleAnalytics = ""
 preserveTaxonomyNames = true
-paginate = 5 #frontpage pagination
+#paginate = 5 #frontpage pagination
 hasCJKLanguage = true
 
 [outputs]
